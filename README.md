@@ -1,5 +1,5 @@
 # Microservices-Blog
-### Mini-blog miniservices demo built with Kubernetes, Docker, React, and Node.js
+### Mini-blog miniservices demo built with Kubernetes, Docker, Skaffold, React, and Node.js
 
 
 
