@@ -15,8 +15,4 @@ $ git clone https://github.com/jharris711/Microservices-Blog.git && cd Microserv
 $ skaffold dev
 ```
 
-### This app will be in your browser at http://posts.com (You may need to edit your /etc/hosts file. Open it in your editor and paste:
-```
-127.0.0.1 posts.com
-```
-### at the bottom to point posts.com to localhost)
+### This app will be in your browser at http://posts.com (You will more than likely need to edit your /etc/hosts file. Open it in your editor and paste `127.0.0.1 posts.com` at the bottom to point posts.com to localhost)
