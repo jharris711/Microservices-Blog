@@ -2,9 +2,9 @@
 ### Mini-blog miniservices demo built with Kubernetes, Docker, React, and Node.js
 
 ### To use:
-- Clone the repo and change into the blog directory:
+- Clone the repo:
 ```bash
-$ git clone https://github.com/jharris711/Microservices-Blog.git && cd blog
+$ git clone https://github.com/jharris711/Microservices-Blog.git
 ```
 - Run the Skaffold dev startup command:
 ```bash
