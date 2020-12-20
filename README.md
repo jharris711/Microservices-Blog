@@ -15,4 +15,4 @@ $ skaffold dev
 ```
 127.0.0.1 posts.com
 ```
-### at the bottom to point posts.com to localhost)*
+### at the bottom to point posts.com to localhost)
